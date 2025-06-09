@@ -1,0 +1,17 @@
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>/404.html</loc></url>
+<url><loc>/authors.html</loc></url>
+<url><loc>/index.html</loc></url>
+<url><loc>/reference/DICOM_codes.html</loc></url>
+<url><loc>/reference/NRS.html</loc></url>
+<url><loc>/reference/Non_NRS.html</loc></url>
+<url><loc>/reference/index.html</loc></url>
+<url><loc>/reference/load_dicom.html</loc></url>
+<url><loc>/reference/load_nifti.html</loc></url>
+<url><loc>/reference/load_npy.html</loc></url>
+<url><loc>/reference/load_nrrd.html</loc></url>
+<url><loc>/reference/merge_RIA_images.html</loc></url>
+<url><loc>/reference/radiomics_all.html</loc></url>
+<url><loc>/reference/save_RIA.html</loc></url>
+</urlset>
+
